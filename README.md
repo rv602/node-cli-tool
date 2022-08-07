@@ -2,4 +2,4 @@
 
 <p>This CLI has been deployed as an npm package, hence you can run it on your machine with the following commabd</p>
 
-<command type='command'>npx </command>
+> npx
